@@ -18,9 +18,9 @@ p{
     color: blueviolet;
     text-align: justify;
 }
-img{
-    height: 200px;
-    width: 200px;
-    margin: 0 auto;
+.center{
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
