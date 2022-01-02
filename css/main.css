@@ -1,0 +1,20 @@
+small{
+    color: rgb(255, 80, 176);
+}
+.blog{
+    font-size: 20px;
+    background-color: rgb(181, 212, 221);
+    border: 10px solid rgb(250, 94, 172);
+    border-radius: 20px;
+    margin: 20px 50px 70px 70px;
+    padding: 20px 20px;
+}
+.blog-title{
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+p{
+    color: blueviolet;
+    text-align: justify;
+}
